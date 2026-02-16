@@ -51,9 +51,11 @@ The project addresses the "wiring bottleneck" in superconducting quantum process
 ## 📚 Study Resources & Bibliography
 
 ### 🎥 Video Lectures
-* **Iowa State University - Data Converters Lecture Series:**
-    * Comprehensive course on data converter architectures and non-idealities.
-    * [Watch on Panopto](https://iastate.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%226af1f806-6a2a-4fc9-8050-b2750130a025%22&page=1)
+* **Iowa State University - Data Converters Lecture Series:** [Watch on Panopto](https://iastate.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%226af1f806-6a2a-4fc9-8050-b2750130a025%22&page=1)
+ 
+* **Cryogenic Electronics for Quantum Computing - Prof. Sudeb Dasgupta:** [Watch on YT](https://www.youtube.com/playlist?list=PLLy_2iUCG87DCtRg90ZdWSbQQkprF8mHS)
+
+* **Cryogenic Nanoelectronics (EE226 SJSU):** [Watch on YT](https://www.youtube.com/playlist?list=PLnK6MrIqGXsKFEAg4E_JVK1A1OeBb88qD)
 
 ### 📖 Fundamental Textbooks
 The following books are used as the theoretical foundation for the circuit design and analysis:
